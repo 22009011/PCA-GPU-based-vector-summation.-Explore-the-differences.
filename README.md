@@ -519,13 +519,13 @@ int main(int argc, char **argv)
 # block.x=1024
 ![image](https://user-images.githubusercontent.com/118343461/235117556-71b33c81-1b9a-46c0-86ec-be401ba8088f.png)
 
- Sum Arrays on Host : 0.033561 sec.
- Sum Arrays on GPU : 0.021730 sec.
+ #### Sum Arrays on Host : 0.033561 sec.
+ #### Sum Arrays on GPU : 0.021730 sec.
 # block.x=256
 ![image](https://user-images.githubusercontent.com/118343461/235117758-8985ed8f-7bb7-4d73-9f50-29016476e46e.png)
 
- Sum Arrays on Host : 0.033183 sec.
- Sum Arrays on GPU : 0.020864 sec.
+ #### Sum Arrays on Host : 0.033183 sec.
+ #### Sum Arrays on GPU : 0.020864 sec.
 
 ## Host-based array summation vs GPU-based vector summation :
 
@@ -543,4 +543,5 @@ GPU : float32_times256 c,b,a; c = b * a; where c=b*a is one instruction, with th
 
 ## Result:
 (i) The block.x is set as 1023 & 1024 and the elapsed time obtained on Host and GPU is compared.
+
 (ii) The number of threads is set as 256 and the elapsed time on Host and GPU is obtained.
