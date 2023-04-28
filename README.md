@@ -197,6 +197,7 @@ int main(int argc, char **argv)
 }
 ```
 # bloack.x=1024
+
 ```
 Name : THANJIYAPPAN.K
 Register No : 212222240108
@@ -350,8 +351,11 @@ int main(int argc, char **argv)
     return(0);
 }
 ```
+
 # (ii)
 ## block.x=256
+
+```
 Name : THANJIYAPPAN.K
 Register No : 212222240108
 #include "../common/common.h"
@@ -505,5 +509,8 @@ int main(int argc, char **argv)
 }
 ```
 ## Output:
+
+
+
 
 ## Result:
