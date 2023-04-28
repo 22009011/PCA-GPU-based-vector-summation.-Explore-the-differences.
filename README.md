@@ -513,8 +513,8 @@ int main(int argc, char **argv)
 # block.x=1023
 ![image](https://user-images.githubusercontent.com/118343461/235117253-629a0a61-45be-4e46-9cba-8a6cc9706607.png)
 
- Sum Arrays on Host : 0.034372 sec.
- Sum Arrays on GPU : 0.020783 sec.
+ #### Sum Arrays on Host : 0.034372 sec.
+ #### Sum Arrays on GPU : 0.020783 sec.
 
 # block.x=1024
 ![image](https://user-images.githubusercontent.com/118343461/235117556-71b33c81-1b9a-46c0-86ec-be401ba8088f.png)
