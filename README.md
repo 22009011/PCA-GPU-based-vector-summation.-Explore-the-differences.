@@ -47,7 +47,7 @@ block.x=1023
 ```
 Name : THANJIYAPPAN.K
 Register No : 212222240108
-#include "../common/common.h"
+#include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
 
@@ -202,7 +202,7 @@ int main(int argc, char **argv)
 ```
 Name : THANJIYAPPAN.K
 Register No : 212222240108
-#include "../common/common.h"
+#include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
 
@@ -359,7 +359,7 @@ int main(int argc, char **argv)
 ```
 Name : THANJIYAPPAN.K
 Register No : 212222240108
-#include "../common/common.h"
+#include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
 
